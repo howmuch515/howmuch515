@@ -9,7 +9,7 @@
 
 - [CTF writeup](https://ctftime.org/team/51588)
 - [SlideShare](https://speakerdeck.com/howmuch515)
-- [Qiita](http://qiita.com/)
+- [Qiita](https://qiita.com/howmuch515)
 
 ## Works
 
