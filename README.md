@@ -19,7 +19,7 @@
 - [BurpSnippets](https://github.com/howmuch515/BurpSnippets)
 - [poc_generator](https://github.com/howmuch515/poc_generator)
 
-### N-day PoC
+### Nday PoC
 
 - [CVE-2018-4233](https://gist.github.com/howmuch515/1ec13bb47e0c726097b790b10e4d7de6)
 - [CVE-2018-4441](https://gist.github.com/howmuch515/1aecbd35ca8e634fd5425db4e0294be2)
