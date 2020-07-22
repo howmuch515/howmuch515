@@ -8,7 +8,7 @@
 ## Links
 
 - [CTF writeup](https://ctftime.org/team/51588)
-- [SlideShare](https://speakerdeck.com/howmuch515)
+- [Slide](https://speakerdeck.com/howmuch515)
 - [Qiita](https://qiita.com/howmuch515)
 
 ## Works
