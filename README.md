@@ -13,6 +13,10 @@
 
 ## Works
 
+### Chrome Extension
+
+- [EGOISTRadioChecker](https://github.com/howmuch515/EGOISTRadioChecker)
+
 ### Burp Extension
 
 - [BurpExportObjects](https://github.com/howmuch515/BurpExportObjects)
