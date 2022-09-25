@@ -2,8 +2,7 @@
 
 - Python
 - Go
-- JavaScript
-- Java
+- JavaScript (Vue.js/TypeScript)
 
 ## Links
 
@@ -12,10 +11,6 @@
 - [Qiita](https://qiita.com/howmuch515)
 
 ## Works
-
-### Chrome Extension
-
-- [EGOISTRadioChecker](https://github.com/howmuch515/EGOISTRadioChecker)
 
 ### Burp Extension
 
@@ -27,7 +22,6 @@
 
 - [CVE-2018-4233](https://gist.github.com/howmuch515/1ec13bb47e0c726097b790b10e4d7de6)
 - [CVE-2018-4441](https://gist.github.com/howmuch515/1aecbd35ca8e634fd5425db4e0294be2)
-
 
 <!--
 **howmuch515/howmuch515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
